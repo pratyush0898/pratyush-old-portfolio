@@ -1,6 +1,6 @@
 # Pratyush Old Portfolio
 
-This is my old portfolio website, created in the year **2000** using only **HTML, CSS, and JavaScript**. It showcases some of my early work and web development skills.
+This is my old portfolio website, created in the year **2018** using only **HTML, CSS, and JavaScript**. It showcases some of my early work and web development skills.
 
 ## Structure
 
